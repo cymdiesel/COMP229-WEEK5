@@ -1,0 +1,56 @@
+
+
+/* Class to section off content */
+.box {
+    padding: 15px;
+    background: lightslategray;
+    background-clip: padding-box; 
+    color: lightgray;
+    padding-bottom: 20px;
+} 
+
+.whitebox {
+    padding: 15px;
+    background-clip: padding-box; 
+    padding-bottom: 20px;
+    padding-top: 20px;
+} 
+
+/* Change the color and look of a hyperlink */ 
+#button:link, #button:visited {
+    background-color: lightslategray;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  #button:hover, #button:active {
+    background-color: lightgrey;
+  }
+
+  .black {
+    color: lightgray;
+  } 
+
+
+  /* Styling about me page */
+  .proPic {
+    display: inline-block;
+    margin-left: 40px;
+    margin-top: 20px;
+    margin-right: 20px;
+    width: 200px;
+    border-radius: 8px;
+  }
+
+  .inline{
+    display: inline-block;
+    padding-left: 300px;
+    margin-left: 20px;
+    margin-top: auto;
+  }
+
+  
+  
